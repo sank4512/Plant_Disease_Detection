@@ -1,0 +1,11 @@
+tensorflow
+scikit-learn
+numpy
+pandas
+seaborn
+streamlit
+ipykernel
+matplotlib
+opencv-python
+altair
+openai
