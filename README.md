@@ -20,7 +20,7 @@ This project is a **Plant Diseases Prediction App** built using **Streamlit** an
 
 ## 📂 Directory Structure
 ```
-📁 arpitkadam-plant-diseases-prediction/
+📁 sank4512-plant-diseases-prediction/
 ├── 📝 main.py                  # Streamlit application
 ├── 📜 requirements.txt        # Dependencies
 ├── 🧪 test.ipynb              # Testing and validation script
@@ -77,6 +77,6 @@ The following graphs illustrate the model's training performance:
 This project is open-source and available under the **MIT License**.
 
 ---
-### 🚀 Developed by **Arpit Kadam**
+### 🚀 Developed by **Sanket Pawar**
 📧 Contact: [📩 pawarsanketsukhadev@gmail.com](mailto:pawarsanketsukhadev@gmail.com)
 
